@@ -1,8 +1,8 @@
-# nismod-db-api-issues
-A issue reporting/handling repository for NISMOD-DB++ API.
+# nismod-db-api-users
+A repository to provide inforamtion, help and an issue reporting method for NISMOD-DB++ API.
 
 # raising issues
-Please add any issues here - https://github.com/geospatialncl/nismod-db-api-issues/issues
+Please add any issues here - https://github.com/geospatialncl/nismod-db-api-users/issues
 
 # How to use teh API
 
