@@ -4,7 +4,7 @@ A repository to provide inforamtion, help and an issue reporting method for NISM
 # raising issues
 Please add any issues here - https://github.com/geospatialncl/nismod-db-api-users/issues
 
-# How to use teh API
+# How to use the API
 
 For early adoptors of the API - webpage/login/docs - https://www.nismod.ac.uk/api
 
