@@ -8,7 +8,11 @@ Please add any issues here - https://github.com/geospatialncl/nismod-db-api-user
 
 For early adoptors of the API - webpage/login/docs - https://www.nismod.ac.uk/api
 
-**With Python**
+**Python**  
+***exmaple scripts***
+  - See the set of example scripts available in the repository - https://github.com/geospatialncl/nismod-db-api-users/tree/master/example_scripts
+
+***details***
   - Use the inbuilt requests library
   - e.g.
     - import requests  
@@ -16,7 +20,7 @@ For early adoptors of the API - webpage/login/docs - https://www.nismod.ac.uk/ap
     - response.status_code #200 = successful  
     - response.content #gets data records returned from API
     
-**With curl**
+**curl**
   - (used in command line)
   - e.g.
     curl --user 'username':'password' https://www.nismod.ac.uk/api/get_lads?lad_codes=E08000021
